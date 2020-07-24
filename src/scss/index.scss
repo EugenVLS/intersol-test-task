@@ -1,0 +1,16 @@
+@import "~normalize.css";
+@import '~tiny-slider/dist/tiny-slider.css';
+@import "container";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #2B2D33;
+    line-height: 16px;
+}
